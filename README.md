@@ -1,2 +1,5 @@
 # Cours-analyses-spatiales-et-quantitatives
-Exercice en analyses spatiales et quantitatives - Grégoire Zuppinger - gregoire.zuppinger@unil.ch
+Exercice en analyses spatiales et quantitatives 
+Prénom : Grégoire 
+Nom : Zuppinger 
+Email : gregoire.zuppinger@unil.ch
